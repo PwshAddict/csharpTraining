@@ -21,4 +21,16 @@ public class BookTests
         Assert.Equal(77.3, result.Low, 1);
 
     }
+
+    [Fact]
+    public void TestInvalidGrade()
+    {
+        // Given
+        var book = new Book("");
+        book.AddGrade(101);
+        // When
+
+        // Then
+
+    }
 }
