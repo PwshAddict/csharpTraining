@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2FNBmpfDIz+RKCykSOtK9MqA9Dn4vjpmtnTM0YvhBmUHo1bRAi4EtAfNQtd9MtIxuOdRDdDpMaiFuKxHjuO/EQ==",
+  "dgSpecHash": "6m+oPSIK40097pTE0fIe/db+d1IiOSTdUJzH1yfT7lK+D5QPngF1IY0pHtARR2Gtruj3X3ahgYZdAiY4sxOumA==",
   "success": true,
   "projectFilePath": "C:\\sources\\github\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
   "expectedPackageFiles": [
